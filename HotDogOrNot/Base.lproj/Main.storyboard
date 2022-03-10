@@ -32,7 +32,7 @@
                     <navigationItem key="navigationItem" id="7gD-9i-jCb">
                         <barButtonItem key="rightBarButtonItem" systemItem="camera" id="7lh-yw-H0n">
                             <connections>
-                                <action selector="camaraTapped:" destination="BYZ-38-t0r" id="F9y-YO-bNz"/>
+                                <action selector="cameraTapped:" destination="BYZ-38-t0r" id="cqF-Pl-vOm"/>
                             </connections>
                         </barButtonItem>
                     </navigationItem>
